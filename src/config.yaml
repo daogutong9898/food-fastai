@@ -4,13 +4,12 @@ about:
   This is a Food Classifier using Deep Learning built on top of Pytorch.
 
 
-  The project was build by [Nidhin Pattaniyil](https://npatta01.github.io)
-  and [Reshama Shaikh](https://reshamas.github.io)
+ 
 
 
-  More info and the source code can be found [here](https://github.com/npatta01/Bird-Classifier)
 
-code: https://github.com/npatta01/food-classifier
+
+code: https://github.com/daogutong9898/food-fastai
 
 sampleImages:
   - name: bibimbap
